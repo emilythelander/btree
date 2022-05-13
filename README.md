@@ -1,4 +1,5 @@
-# CS 321 Bioinformatics Project
+# CS 321 Bioinformatics Project Spring 2022
+Emily Thelander, Andrew Sorensen, Zach Sullivan
 
 **Table of contents:**
 - [Starter Code](#starter-code)
